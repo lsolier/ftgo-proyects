@@ -2,7 +2,7 @@
 Desplegar Servicios Usando Kubernetes
 - Fuente: https://www.manning.com/liveprojectseries/deploy-services-using-kubernetes-ser
 
-## Arquitectura Logica de componentes
+## Arquitectura lógica de componentes
 
 ![logical-diagram](/assets/logical-architecture.png)
 
